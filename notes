@@ -1,0 +1,1 @@
+Command Use for deploy platformservice: kubectl apply -f platforms-depl.yaml
