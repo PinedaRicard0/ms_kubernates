@@ -1,1 +1,2 @@
-Command Use for deploy platformservice: kubectl apply -f platforms-depl.yaml
+Command Use for deploy platformservice deployment: kubectl apply -f platforms-depl.yaml
+Command Use for deploy platformservice service (node port): kubectl apply -f platforms-ap-srv.yml
