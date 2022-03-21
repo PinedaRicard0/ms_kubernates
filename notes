@@ -1,2 +1,3 @@
 Command Use for deploy platformservice deployment: kubectl apply -f platforms-depl.yaml
 Command Use for deploy platformservice service (node port): kubectl apply -f platforms-ap-srv.yml
+Restart a deployment with the latest version: kubectl rollout restart deployment platforms-depl
